@@ -1,0 +1,58 @@
+[
+  {
+    "id": 0,
+    "name": "Margherita",
+    "image": "/public/images/pizzas/margherita.png",
+    "price": 10.5,
+    "currency": "USD",
+    "ingredients": "tomato, fior di latte mozzarella, pecorino romano, fresh basil, olive oil"
+  },
+  {
+    "id": 1,
+    "name": "Vegetarina",
+    "image": "/public/images/pizzas/vegetarina.png",
+    "price": 12.5,
+    "currency": "USD",
+    "ingredients": "tomato, fior di latte mozzarella, pecorino romano, bell peppers, red onions, sweet corn, artichokes, mushrooms, fresh basil, olive oil"
+  },
+  {
+    "id": 1,
+    "name": "Prosciutto Crudo",
+    "image": "/public/images/pizzas/prosciutto-crudo.png",
+    "price": 12.95,
+    "currency": "USD",
+    "ingredients": "tomato, fior di latte mozzarella, pecorino romano, Prosciutto di Parma, fresh basil, olive oil"
+  },
+  {
+    "id": 2,
+    "name": "Diavola",
+    "image": "/public/images/pizzas/diavola.png",
+    "price": 14.5,
+    "currency": "USD",
+    "ingredients": "tomato, fior di latte mozzarella, pecorino romano, Spianete Picante,  fresh basil, olive oil"
+  },
+  {
+    "id": 3,
+    "name": "Tonno e Cipolla",
+    "image": "/public/images/pizzas/tonno-e-cipolla.png",
+    "price": "14.5",
+    "currency": "USD",
+    "ingredients": "tomato, fior di latte mozzarella, pecorino romano, tuna, red onions, olives, capers, fresh basil, olive oil"
+  },
+  {
+    "id": 4,
+    "name": "Salsiccia",
+    "image": "/public/images/pizzas/salsiccia.png",
+    "price": 16.5,
+    "currency": "USD",
+    "ingredients": "tomato, fior di latte mozzarella, pecorino romano, Spiante Picante, ricotta, fresh basil, olive oil"
+  },
+  {
+    "id": 5,
+    "name": "Calzone Napoli",
+    "image": "/public/images/pizzas/calzone-napoli.png",
+    "price": 16.5,
+    "currency": "USD",
+    "ingredients": "tomato, fior di latte mozzarella, pecorino romano, prosciutto cotto, cherry tomatoes, ricotta, fresh basil, olive oil"
+  }
+]

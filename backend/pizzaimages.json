@@ -1,0 +1,35 @@
+[
+    {
+        "image": "/public/images/pizzas/4cheese.png"
+    },
+    {
+        "image": "/public/images/pizzas/4seasons.png"
+    },
+    {
+        "image": "/public/images/pizzas/calzone-napoli.png"
+    },
+    {
+        "image": "/public/images/pizzas/cottoefungi.png"
+    },
+    {
+        "image": "/public/images/pizzas/diavola.png"
+    },
+    {
+        "image": "/public/images/pizzas/margherita.png"
+    },
+    {
+        "image": "/public/images/pizzas/milanese.png"
+    },
+    {
+        "image": "/public/images/pizzas/prosciutto-crudo.png"
+    },
+    {
+        "image": "/public/images/pizzas/salsiccia.png"
+    },
+    {
+        "image": "/public/images/pizzas/tonno-e-cipolla.png"
+    },
+    {
+        "image": "/public/images/pizzas/vegetarina.jpg"
+    }
+]

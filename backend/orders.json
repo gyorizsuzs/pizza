@@ -1,0 +1,82 @@
+[
+  [
+    {
+      "name": "Wittenberger Edömér",
+      "address": "Álmos utca 8.",
+      "zip": "6541",
+      "city": "Karakuntszentszörcsög",
+      "phone": "0123456789",
+      "email": "EdomerTheCoolGuy@gmail.com"
+    },
+    [
+      {
+        "pizzaname": "Margherita",
+        "pizzaamount": "5",
+        "pizzaprice": 52.5
+      },
+      {
+        "pizzaname": "Diavola",
+        "pizzaamount": "4",
+        "pizzaprice": 58
+      }
+    ],
+    {
+      "total": 110.5
+    }
+  ],
+  [
+    {
+      "name": "Möszijő Zsan",
+      "address": "Rue Cadoret 7.",
+      "zip": "7894",
+      "city": "Saint-Pourçain-sur-Sioule",
+      "phone": "4568",
+      "email": "Sajtmester@gmail.com"
+    },
+    [
+      {
+        "pizzaname": "Prosciutto Crudo",
+        "pizzaamount": "2",
+        "pizzaprice": 25.9
+      },
+      {
+        "pizzaname": "Tonno e Cipolla",
+        "pizzaamount": "6",
+        "pizzaprice": 87
+      }
+    ],
+    {
+      "total": 112.9
+    }
+  ],
+  [
+    {
+      "name": "Mario Mario",
+      "address": "Bowser's Castle 5",
+      "zip": "65421",
+      "city": "Mushroom Kingdom",
+      "phone": "1236531",
+      "email": "Mario@BestPlumbing.com"
+    },
+    [
+      {
+        "pizzaname": "Margherita",
+        "pizzaamount": "6",
+        "pizzaprice": 63
+      },
+      {
+        "pizzaname": "Diavola",
+        "pizzaamount": "6",
+        "pizzaprice": 87
+      },
+      {
+        "pizzaname": "Tonno e Cipolla",
+        "pizzaamount": "6",
+        "pizzaprice": 87
+      }
+    ],
+    {
+      "total": 237
+    }
+  ]
+]

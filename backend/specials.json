@@ -1,0 +1,34 @@
+[
+  {
+    "id": 8,
+    "name": "Milano",
+    "image": "/public/images/milanese.png",
+    "price": 12.5,
+    "currency": "USD",
+    "ingredients": "tomato, fior di latte mozzarella, pecorino romano, milanese salami, sweet pepperoni"
+  },
+  {
+    "id": 9,
+    "name": "Quattro Stagioni",
+    "image": "/public/images/4seasons.png",
+    "price": 12.5,
+    "currency": "USD",
+    "ingredients": "tomato, fior di latte mozzarella, pecorino romano, Prosciutto Cotto, mushrooms, artichokes, bell peppers, fresh basil, olive oil"
+  },
+  {
+    "id": 10,
+    "name": "Quattro Formaggi",
+    "image": "/public/images/4cheese.png",
+    "price": 11.5,
+    "currency": "USD",
+    "ingredients": "tomato, fior di latte mozzarella, pecorino romano, Gorgonzola, Brie, fresh basil, olive oil"
+  },
+  {
+    "id": 11,
+    "name": "Prosciutto e Fungi",
+    "image": "/public/images/cottoefungi.png",
+    "price": 13.5,
+    "currency": "USD",
+    "ingredients": "tomato, fior di latte mozzarella, pecorino romano, Prosciutto Cotto, mushrooms, fresh basil, olive oil"
+  }
+]
